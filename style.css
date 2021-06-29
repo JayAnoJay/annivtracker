@@ -195,7 +195,7 @@ p {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 80%;
-    text-align: justify;
+/*     text-align: justify; */
 
     background-color: white;
     padding: 6rem;
